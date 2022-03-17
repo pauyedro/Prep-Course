@@ -1,0 +1,6 @@
+Variables: Es donde podemos almacenar algo, y tambien podemos darle valores.
+Strings: Es una cadena de caracteres y se diferencian escribiendolos entre comillas dobles  o simples.
+Argumentos: Son aquellos datos que se le pueden ir dando a una función poniendo una coma entre ellos.
+Return: Se utiliza para dar por finalizada una función.
+Declaraciones if: Se utiliza para analizar si una función esta devolviendo un dato verdadero "true" o "false".
+Valores boleanos: Son aquellos que solo poseen dos opciones, 0 o 1, activar o desactivar, y en JS se utiliza true o false. 
