@@ -1,0 +1,4 @@
+for: sirve para repetir una funcion tantas veces hasta que encuentre el true.
+&&: sirve para indicar todo lo que queremos que tenga si o si nuestra funcion.
+||: sirve para indicar que nuestra funcion puede tener una cosa ó otra.
+!: este simbolo sirve para negar lo siguiente que se escriba. 
