@@ -1,0 +1,8 @@
+Objetos: Son como contenedores de información acerca de una sola cosa. Se encierran con {}
+Propiedades: Son aquellas palabras que nos van a describir el objeto.
+Metodos: Son las funciones que guardamos dentro de los metodos. 
+Bucle "for...in": Este bucle itera cada clave del objeto y termina cuando itera todas las claves. Se usa 
+                  clave.[] para acceder a cierto valor asociado a esa clave.
+Notación de puntos vs. notacion de corchetes: La diferencia es que cuando usamos "." el sistema busca la
+                   propiedad que se nombra, en el objeto. En cambio con los corchetes podemos apregar, eliminar
+                   o cambiar una nueva propiedad.
